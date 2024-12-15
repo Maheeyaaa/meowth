@@ -1,0 +1,97 @@
+body
+{
+    background-image: url(download4.jpeg);
+    background-color: black;
+}
+h1
+{
+    height: auto;
+    width: 150px;
+    color: white;
+    background-color: black;
+    border-radius: 11px;
+}
+
+h3
+{
+    color: white;
+    background-color: black;
+    border-radius: 11px;
+}
+h2
+{
+    color: rgb(238, 118, 71);
+    background-color: black;
+}
+#im1
+{
+    float: right;
+}
+#h21
+{
+    color: rgb(255, 0, 0);
+    background-color: black;
+}
+#im2
+{
+    float: left;
+}
+#h22
+{
+    color: rgb(23, 85, 255);
+    background-color: black;
+}
+#mg3
+{
+    float: right;
+}
+#h23
+{
+    background-color: black;
+    color: red;
+}
+#mg4
+{
+    float: left;
+}
+#h24
+{
+    background-color: black;
+    color: brown;
+}
+#mg5
+{
+    float: right;
+}
+#h25
+{
+    background-color: black;
+    color: rgb(192, 95, 95);
+}
+#mg6
+{
+    float: left;
+}
+#h26
+{
+    background-color: black;
+    color: rgb(42, 142, 235);
+}
+#mg7
+{
+    float: right;
+}
+#h27
+{
+    background-color: black;
+    color: darkblue;
+}
+#mg8
+{
+    float: left;
+}
+p
+{
+    background-color:black;
+    color: white;
+}
